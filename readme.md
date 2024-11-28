@@ -26,7 +26,7 @@ El proyecto, desarrollado por el Grupo N° 8, con enfoque en la creación de un 
 * David Ramirez - [@Chavow5](https://www.github.com/chavow5)
 * Celeste Orellano
 * Alejandro Romero
-* Cecilia Bolado
+* Cecilia Bolado - [@cecibolado](https://www.github.com/cecibolado)
 
 ## Esctructura de Carpeta
 ```bash
